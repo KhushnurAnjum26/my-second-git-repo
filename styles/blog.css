@@ -15,4 +15,5 @@ h3{
 .pre{
     font-style: italic;
     color: black;
+    border: 10px solid;
 }
