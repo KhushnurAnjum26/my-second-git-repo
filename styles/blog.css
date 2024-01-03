@@ -1,13 +1,14 @@
 div{
     background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: 100px ;
     color: chocolate;
 
 }
 h3{
     color: black;
+    background-color: brown;
 }
 #new{
     color: blueviolet;
+    font-size: large;
 }
